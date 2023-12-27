@@ -1,0 +1,44 @@
+/* Add this CSS to your component or import it from an external stylesheet */
+
+/* Styling for AsyncPaginate container */
+.react-select-async-paginate {
+    width: 100%; /* Adjust the width as needed */
+    background-color: black;
+    color: white;
+}
+
+/* Styling for AsyncPaginate input */
+.react-select-async-paginate__input {
+    color: white;
+}
+
+/* Styling for AsyncPaginate option */
+.react-select-async-paginate__option {
+    background-color: black;
+    color: white;
+}
+
+/* Styling for AsyncPaginate selected option */
+.react-select-async-paginate__single-value {
+    color: white;
+}
+
+/* Styling for AsyncPaginate dropdown indicator */
+.react-select-async-paginate__indicator-separator {
+    background-color: white;
+}
+
+/* Styling for AsyncPaginate dropdown indicator arrow */
+.react-select-async-paginate__dropdown-indicator {
+    color: white;
+}
+
+/* Styling for AsyncPaginate loading indicator */
+.react-select-async-paginate__loading-indicator {
+    color: white;
+}
+
+/* Styling for AsyncPaginate no options message */
+.react-select-async-paginate__no-options {
+    color: white;
+}
